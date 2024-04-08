@@ -88,7 +88,7 @@ function draw(){
 function aboutGame(){
    swal({
      title: "About Game",
-     text: "Use the arrows keys to move around, and defeat as many enemies as you possible. Have Fun & Good Luck!",
+     text: "Use the arrows keys to move around, and defeat as many enemies as you possible. Have Fun & Good Luck!         Created by: Aryan Raja",
      imageUrl: "assets/splashScreen.gif",
      imageSize: "200x200",
      confirmButtonText: "Back To Main Screen",
